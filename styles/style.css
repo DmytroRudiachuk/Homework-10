@@ -1,0 +1,12 @@
+ul {
+    list-style: none;
+}
+
+ul li.todo-done {
+    color: gray;
+    text-decoration: line-through;
+}
+
+.vi {
+	padding-top: 20px;
+}
